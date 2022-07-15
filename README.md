@@ -49,3 +49,9 @@ Q#5 Stages of Git?
     - Staging area
     - Local repository
     - Remote repository
+
+Q#6 Three methods of git reset?
+
+    - git reset(--mixed): Uncommit and move to previous commit
+    - git reset --soft: Uncommit but ﬁle will be in staging
+    - git reset --hard: Uncommit, remove from stage, remove from local repo

@@ -8,7 +8,7 @@ Q#1 Agile vs DevOps?
 
     DevOps focuses more on operational and business readiness whereas Agile focuses on functional and non-function readiness.
 
-Q#2 Define CI, Continuous Delivery & Continuous Deployment
+Q#2 Define CI, Continuous Delivery & Continuous Deployment?
     
     - Continuous integration
 
@@ -25,3 +25,15 @@ Q#2 Define CI, Continuous Delivery & Continuous Deployment
     - Continuous deployment
 
     Continuous deployment goes one step further than continuous delivery. With this practice, every change that passes all stages of your production pipeline is released to your customers. There's no human intervention, and only a failed test will prevent a new change to be deployed to production.
+
+Q#3 What are the benefits of Cloud Computing?
+
+    Cloud computing is a term that has gained widespread use over the last few years. With the exponential increase in data use that has accompanied society's transition into the digital 21st century, it is becoming more and more difficult for individuals and organisations to keep all of their vital information, programs, and systems up and running on in-house computer servers.
+    
+    Here are some benefits of cloud computing.
+    - Cost Savings
+    - Security
+    - Flexibility
+    - Mobility
+    - Insight
+    - Quality Control
